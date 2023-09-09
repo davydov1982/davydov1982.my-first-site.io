@@ -1,0 +1,15 @@
+p {
+    color: gray;
+}
+
+p.test_red {
+    color: red;
+}
+
+p.test_green {
+    color: green;
+}
+
+p.test_blue {
+    color: blue;
+}
